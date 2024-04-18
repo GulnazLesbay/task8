@@ -1,0 +1,69 @@
+.task-form-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-title {
+    margin-bottom: 20px;
+}
+
+.task-input {
+    width: 100%;
+}
+
+.submit-button {
+    margin-top: 10px;
+}
+.task-list-container {
+    margin-top: 20px;
+}
+
+.task-list-heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.task-list .card {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.task-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.delete-button,
+.update-button {
+    margin: 0 5px;
+}
+
+/* dv */
+.update-form {
+    margin-top: 20px;
+}
+
+.update-input {
+    width: 100%;
+}
+
+.button-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+
+.update-button {
+    margin-left: 10px;
+}
+/* ыв */
+.app-container {
+    text-align: center;
+}
+
+.app-heading {
+    margin-top: 20px;
+}
+
